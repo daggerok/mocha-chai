@@ -1,4 +1,4 @@
-mocha-chai [![build](https://api.travis-ci.org/daggerok/mocha-chai.svg?branch=master)](https://api.travis-ci.org/daggerok/mocha-chai)
+mocha-chai [![build](https://api.travis-ci.org/daggerok/mocha-chai.svg?branch=master)](https://travis-ci.org/daggerok/mocha-chai) [info (api)](https://api.travis-ci.org/daggerok/mocha-chai)
 ==========
 
 `git clone ... && cd $_`
